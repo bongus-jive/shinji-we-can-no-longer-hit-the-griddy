@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "patman",
+  "tags" : "Miscellaneous",
+  "description" : "removes the griddy from  the loading screen\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]\n[url=https://link.clashofclans.com/en?action=OpenClanProfile&tag=2QCU2R9GP][img]https://i.imgur.com/xVfcRRH.gif[/img][/url]\n\n[img]https://cdn.discordapp.com/emojis/1006617945008521318.gif[/img]",
+  "name" : "shinji_no_griddy",
+  "friendlyName" : "shinji we can no longer hit the griddy",
+  "steamContentId" : "2849051555",
+  "link" : "steam://url/CommunityFilePage/2849051555",
+  "includes" : ["shinji_griddy"]
+}
